@@ -4,6 +4,11 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Roc3V3MXptdjdhNjkyaWN5M3A3bTFjcGtiajZhdnVnZGExdmtteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
+## Contact
+
+ - Linkedin: https://www.linkedin.com/in/breno-baldassim-bb2138196/
+ - Website: https://www.brenobaldassim.com.br
+ - Email: brenobaldassim.contato@gmail.com
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,8 +42,6 @@
       <li>🔭 I’m currently working on fullstack e-commerce web application</li>
       <li>🌱 I’m currently learning: Java and improving backend knowledge</li>
       <li>👯 I’m looking to collaborate on any kind of project that could help other people on their lives</li>
-      <li>📫 How to reach me: brenobaldassim.contato@gmail.com</li>
-      <li>🌐 My website: https://www.brenobaldassim.com.br</li>
       <li>⚡ Fun fact: Im also a gym rat as a hobby 🏋️🐀</li>
     </ul>
 </div>
