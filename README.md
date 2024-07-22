@@ -33,6 +33,8 @@
 
 ## Relevant Projects
 [![PORTIFOLIO](https://img.shields.io/badge/REST%20API%20WITH%20USER%20AUTH-green?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/brenobaldassim/portifolio-node-rest-api-authentication)
+<br/>
+[![PORTIFOLIO](https://img.shields.io/badge/my%20potifolio%20website-2ba84a?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/brenobaldassim/brenobaldassim.github.io)
 
 
 
