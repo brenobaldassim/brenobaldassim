@@ -9,6 +9,7 @@
  - Linkedin: https://www.linkedin.com/in/breno-baldassim-bb2138196/
  - Website: https://www.brenobaldassim.com.br
  - Email: brenobaldassim.contato@gmail.com
+
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
 <br/>
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,8 +38,6 @@
 <br/>
 [![PORTIFOLIO](https://img.shields.io/badge/my%20potifolio%20website-2ba84a?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/brenobaldassim/brenobaldassim.github.io)
 
-
-
 ## About Me
 <div>
     <ul>
@@ -46,4 +46,10 @@
       <li>👯 I’m looking to collaborate on any kind of project that could help other people on their lives</li>
       <li>⚡ Fun fact: Im also a gym rat as a hobby 🏋️🐀</li>
     </ul>
+</div>
+
+## Stats
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenobaldassim&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobaldassim&layout=compact&langs_count=7&theme=merko"/>
 </div>
