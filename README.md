@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-> "<em> Machines take me by surprise with great frequency.  <em/>"
-> <em> -  Alan Turing <em/>
+> "<em> Machines take me by surprise with great frequency.  </em>"
+> <em> -  Alan Turing </em>
 
 <br/>
 
