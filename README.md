@@ -55,8 +55,8 @@
 ## About Me
 <div>
     <ul>
-      <li>🔭 I’m currently working on fullstack e-commerce web application</li>
-      <li>🌱 I’m currently learning: Java and improving my backend knowledge</li>
+      <li>🔭 I’m currently working on fullstack client product sales manager web application</li>
+      <li>🌱 I’m currently learning: Next.js and improving my SSR knowledge</li>
       <li>👯 I’m looking to collaborate on any kind of project that could help other people on their lives</li>
       <li>⚡ Fun fact: Im also a gym rat as a hobby 🏋️🐀</li>
     </ul>
